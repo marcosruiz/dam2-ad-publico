@@ -1,0 +1,12 @@
+# Project exclude paths
+*.aux
+*.bbl
+*.blg
+*.log
+*.iml
+.idea/
+*.out
+*.gz
+*.toc
+*.class
+target/
